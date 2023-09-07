@@ -1,4 +1,4 @@
 # demo_repo
 this is my first repository
 <br>
-Auther - Maiyuddin
+Auther - Maiyuddin shaikhg
